@@ -1,0 +1,2 @@
+# ai-plaform
+mini project
